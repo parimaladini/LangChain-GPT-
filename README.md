@@ -1,4 +1,7 @@
 # 🦜️🔗 LangChain
+This is a small project which helps to understand the basic flow LangChain, I Strongly believe that the most easiest/best way to learn is only by doing/building projects.
+
+To Know more about LangChain👇, I have gathered some information from github.
 ## Quick Install
 
 `pip install langchain`
